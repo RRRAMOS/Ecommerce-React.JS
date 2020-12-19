@@ -1,0 +1,120 @@
+body {
+    padding-top: 60px;
+    
+}
+
+h2 {
+    color: blue; text-align: center; border-style: double
+} 
+
+
+p img {margin-right: 350px; margin-left: 350px;
+}
+
+
+img {
+    /* margin-right: 350px; margin-left: 350px;
+    width:300px; */
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto
+    
+}
+
+.categorias {
+    float: left;
+    width: 300px;
+    font-size: 16pt;
+    
+}
+     
+.imagens {
+    display: flex;
+    flex-wrap: wrap;
+}
+      
+.imagem {
+    padding:0;
+}  
+
+.form-pedidos label{
+    display: flex;
+}
+
+.form-pedidos{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: inline-block;
+    width: 300px;
+    text-align: green;
+    border-color: green;
+    margin-left: 20px;
+    color: rgb(22, 139, 90);
+    
+}
+.form-group {
+    display: block;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+
+.form-group label {
+    font-size:25px;
+    margin-right: 25px;
+
+}
+
+.form-contato {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: inline-block;
+    width: 300px;
+    text-align: green;
+    border-color: green;
+    margin-left: 20px;
+    color: rgb(22, 139, 90);
+}
+.footer p {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    display: flex;
+    text-align:center ;
+    width: 100%;
+}
+
+
+.box_produto{
+    margin-top: 50px;
+    display:inline-block;
+    text-align: center;
+    margin-left: 10px;
+    vertical-align: top;
+}
+
+
+.box_produto p {
+    width: 320px;
+
+}
+
+img.itens {
+    width: 120px;
+    cursor: pointer;
+}
+
+ul, li {
+    padding-left: 10px;
+}
+
+.categorias {
+    position: absolute;
+    cursor: pointer;
+}
+
+.active {
+    border-bottom:2px solid rgba (255,245,.9);
+
+}

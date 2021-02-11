@@ -29,7 +29,7 @@ INSERT INTO produto values (null,'Luminária','para bancada, material madeira','
 INSERT INTO produto values (null,'Luminária','material PVC','100.00','imagem07.jpg');
 INSERT INTO produto values (null,'Luminária','para bancada, material PVC','100.00','imagem08.jpg');
 INSERT INTO produto values (null,'Lustre','Material PVC e BOPP ','100.00','imagem09.jpg');
-    
+  
 INSERT INTO pedidos values (null, 'Pedro Santos', 'Rua Domingo de Moraes,33', '(11)12457893', 20.00, 1, 1, 20.00);
 INSERT INTO pedidos values (null, 'Maria Martins Santos', 'Av das Americas,3', '(16)54786348', 100.00, 7, 1, 100.00);
 INSERT INTO pedidos values (null, 'Amanda Gomes', 'Rua Aparecida,1500', '(11)96541257', 20.00, 1, 2, 40.00);

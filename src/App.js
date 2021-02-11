@@ -1,6 +1,5 @@
 import { BrowserRouter } from 'react-router-dom'; //buscador de rotas
 import { Container } from 'react-bootstrap';
-import Footer from './Component/Rodape/Footer.js';
 import Menu from './Component/Menu';
 import './css/estilo.css'
 import Rotas from './Rotas';
@@ -18,7 +17,7 @@ function App() {
             <Rotas />
           </Container>
         </main>
-        <Footer />
+        
       </div>
     </BrowserRouter>
   );

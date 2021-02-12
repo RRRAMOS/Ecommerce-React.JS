@@ -1,6 +1,8 @@
 
 Para compilar execute também: npm bootstrap bootstrap-react
 
+Code Splitting e o Lazy Loading uado para programar um carregamento lento da aplicação. Enquanto o componente é baixado e renderizado em segundo plano, um texto com a mensagem "Carregando..." será exibido. 
+
 
 # Getting Started with Create React App
 

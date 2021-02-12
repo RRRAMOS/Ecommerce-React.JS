@@ -1,5 +1,5 @@
 
-Para compilar execute também: npm bootstrap bootstrap-react
+Para compilar execute também: npm install bootstrap e npm install bootstrap-react
 
 Code Splitting e Lazy Loading:  usados para programar um carregamento lento da aplicação. Enquanto componentes são baixados e renderizados em segundo plano, uma  mensagem de "Carregando..." será exibida. 
 
